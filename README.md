@@ -1,2 +1,2 @@
 # storybook
-A mage's story. A collaboration in Python.
+A collaboration in Python.
