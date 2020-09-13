@@ -42,12 +42,12 @@ def main():
 FIBONACCI_SEQUENCE = deque([0, 1], maxlen=2)
 INITIAL_STEPS = 2
 
-#! What is a "dangerous default"? Let's find out! Linters are your friend.
+
 def fibonacci_frailty(
     stamina,
     steps_till_bench,
     steps_taken=INITIAL_STEPS,
-    fibonacci_sequence=FIBONACCI_SEQUENCE,
+    fibonacci_sequence=FIBONACCI_SEQUENCE,  #! What is a "dangerous default"?
 ):
     """
     Reduce the mage's stamina for each step taken, according to the Fibonacci sequence.
