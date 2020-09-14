@@ -5,7 +5,7 @@ One possible solution to the Story of a Mage.
 from collections import deque
 
 
-def fibonacci_frailty(stamina, steps_till_bench):
+def fibonacci_frailty(stamina, steps_till_destination):
     """
     Reduce the mage's stamina for each step taken, according to the Fibonacci sequence.
     """
@@ -20,7 +20,7 @@ def fibonacci_frailty(stamina, steps_till_bench):
     )
 
     # The mage takes another step with each iteration of the loop
-    while steps_taken < steps_till_bench and stamina > 0:
+    while steps_taken < steps_till_destination and stamina > 0:
         steps_taken += 1
 
         stamina_loss_this_step = sum(fibonacci_sequence)
