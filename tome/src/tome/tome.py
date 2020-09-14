@@ -52,8 +52,10 @@ class FibonacciFrailty:
         self.stamina -= self.stamina_loss_this_step
         self.fibonacci_sequence.append(self.stamina_loss_this_step)
 
+
 # * ------------------------------------------------------------------------------ # *
 # * EARLIER IMPLEMENTATIONS * #
+
 
 def fibonacci_frailty(stamina, steps_till_destination):
     """
