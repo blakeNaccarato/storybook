@@ -1,5 +1,5 @@
 """
-Blake's working script for "Chapter 1 - A thorny situation".
+One possible solution to "Chapter 1 - A thorny situation".
 """
 
 HEALTH = 20
