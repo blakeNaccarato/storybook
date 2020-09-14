@@ -10,7 +10,7 @@ A mage is walking to the market. The road was clear yesterday. He could've sworn
 
 ## Chapter 2 – Fibonacci frailty
 
-The mage's toenail is throbbing from where the bramble patch really got him good. As he nears the end of his thorny journey, the mage notices the beautifully coiled vines beside the path. Those vines, coiled so perfectly in the Golden Ratio, could only mean one thing This was Fibonacci Weed! The mage could already feel it setting in, that terrible condition known as Fibonacci Frailty!
+The mage's toenail is throbbing from where the bramble patch really got him good. As he nears the end of his thorny journey, the mage notices the beautifully coiled vines beside the path. Those vines, coiled so perfectly in the Golden Ratio, could only mean one thing. This was Fibonacci Weed! The mage could already feel it setting in, that terrible condition known as Fibonacci Frailty!
 
 Excerpt from *Ancient Ailments*, from the mage's library:
 
@@ -26,8 +26,8 @@ The mage collapses on the bench, exhausted. He utters an encantation, refilling 
 
 ## Chapter 4 – Good for what ails you
 
-The mage stumbles into the shop and doubles over in order to catch his breath. "Long time no see, Percy," the mage said between raspy breaths, "How's the old ball and chain treating you?" Percy gestured to his right ankle with a nod, "Well I'm still here, aren't I?" Long ago, a jilted ex-lover had cursed Percival to be chained to an unmoving ball in the snow. Percy, ever the enterprising man, had paid the villagers to build his potions shop around him.
+The mage stumbles into the shop and doubles over in order to catch his breath. "Long time no see, Percy," the mage said between raspy breaths, "How's the old ball and chain treating you?" Percy gestured to his right ankle with a nod, "Well I'm still here, aren't I?" Long ago, a jilted ex-lover had cursed Percival to be chained to an unmoving ball outside the tavern. Percy, ever the enterprising man, had paid the villagers to build his potions shop around him.
 
-"Percy, I am just wiped out. Got a touch of the Fib. You got an antidote?" Percival nodded, "It'll be fifty silver, and you'll have to fetch it yourself. It's on the back wall, out of my reach."
+"Percy, I am just wiped out. Got a touch of the Fib. You got an antidote?" Percival nodded, "It'll be fifty silver, and you'll have to fetch it yourself. It's on the back wall, out of my reach." Percy gestured towards the antidotes shelf, lazily stretching out one arm to prove that he really couldn't reach.
 
 *The mage sighed. It wasn't about the money. He had plenty in his purse, two (2) gold (worth 100 silver each), and 40 silver. But the three (3) steps between him and the antidote seemed like a chasm. The Fib doesn't reset unless you sit on a bench, and his stamina spell was still on cooldown. All he had in his pouch was half a chocolate bar, worth twelve (12) stamina. He would have to get as close to the antidote as possible, then use a Ranged Reach spell to grab the potion (two or higher on a D6). Then he could drink the potion and finally be rid of this pestilence.*
