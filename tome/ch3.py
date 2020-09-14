@@ -2,8 +2,6 @@
 Blake's dictionary-based solution to "Chapter 3 - The Traveling Mage Problem".
 """
 
-#TODO: Print results along the way.
-
 import os
 import yaml
 from tome import fibonacci_frailty
