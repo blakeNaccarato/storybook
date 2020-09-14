@@ -4,13 +4,13 @@ Blake's dictionary-based solution to "Chapter 3 - The Traveling Mage Problem".
 
 #TODO: Print results along the way.
 
+import os
 import yaml
 from tome import fibonacci_frailty
 
 STAMINA = 150
-STORE_DIRECTORY_PATH = r"adventure\ch3\Ye_olde_store_directory.yaml"
 
-with open(STORE_DIRECTORY_PATH) as file:
+with open(os.environ["STORYBOOK_STORE_DIR"]) as file:
     directory = yaml.safe_load(file)
 
 potion_directory = {}
