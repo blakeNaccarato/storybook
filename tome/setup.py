@@ -11,6 +11,6 @@ setup(
     long_description_content_type="text/markdown",
     author="Blake Naccarato",
     package_dir={"": "src"},
-    packages=find_packages(where=r"adventure\src"),
+    packages=find_packages(where=r"tome\src"),
     python_requires=">=3.7",
 )
