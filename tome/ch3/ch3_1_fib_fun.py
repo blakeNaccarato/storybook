@@ -1,5 +1,5 @@
 """
-Blake's dictionary-based solution to "Chapter 3 - The Traveling Mage Problem".
+One possible solution to "Chapter 3 - The Traveling Mage Problem".
 """
 
 import os
