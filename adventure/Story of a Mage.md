@@ -6,7 +6,7 @@ This is the story of a mage headed to market.
 
 A mage is walking to the market. The road was clear yesterday. He could've sworn this thorny patch of weeds wasn't here before. The mage looked down at his sandals. "I'll be fine," he reassured himself. So he stepped gently across the weeds, as the thorns snagged at his ankles.
 
-*The mage, originally at **20 health**, takes minor damage with each step. He takes **2 damage**, then **1**, then **4** (a thorn got under his toenail), then **1**. For each step he takes, how much damage does he take and how much health does he have left? How much health does he have left once he reaches the other end of the bramble patch?*
+*The mage, originally at **100 health**, takes minor damage with each step. He takes **2 damage**, then **1**, then **4** (a thorn got under his toenail), then **1**. For each step he takes, how much damage does he take and how much health does he have left? How much health does he have left once he reaches the other end of the bramble patch?*
 
 ## Chapter 2 – Fibonacci frailty
 
