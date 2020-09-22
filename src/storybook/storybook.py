@@ -35,7 +35,7 @@ class Mage:
     A mage on a journey.
     """
 
-    INITIAL_HEALTH = CH1_INITIAL_HEALTH
+    INITIAL_HEALTH = 100
     INITIAL_STAMINA = 150
 
     def __init__(self):
