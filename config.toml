@@ -1,7 +1,7 @@
 baseURL = "https://blakeNaccarato.github.io/storybook/"
 languageCode = "en-us"
 title = "Hugo Whisper Theme"
-themesDir = "themes"
+themesDir = "../../themes"
 theme = "hugo-whisper-theme"
 
 pygmentsCodeFences = true
