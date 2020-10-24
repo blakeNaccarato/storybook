@@ -1,0 +1,17 @@
+# https://github.com/marketplace/actions/changerelease
+
+name: changerelease
+on:
+  workflow_dispatch:
+  push:
+    paths: [CHANGELOG.md]
+    tags: ["*"]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: dropseed/changerelease@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          tag_prefix: ""
