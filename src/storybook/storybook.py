@@ -1,6 +1,4 @@
-"""
-A collaboration in Python.
-"""
+"""A collaboration in Python."""
 
 from collections import deque
 
@@ -31,8 +29,16 @@ def ch1(mage=None):
 
 
 class Mage:
-    """
-    A mage on a journey.
+    """A mage on a journey.
+
+    The mage class. A more in-depth explanation here.
+
+    Attributes
+    ----------
+    health: int
+        Health. **Initially:** 100
+    stamina: int
+        Stamina. **Initially:** 150
     """
 
     INITIAL_HEALTH = 100
