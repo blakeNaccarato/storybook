@@ -1,11 +1,15 @@
-storybook
-=========
-
 .. include:: ../README.rst
 
+.. code-block:: python
+
+  def add_me(num1, num2):
+    return num1 + num2
+
+>>> add_me(1,2)
+4
+
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents
 
    modules
    contributing
